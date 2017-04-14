@@ -1,12 +1,9 @@
 ## Put comments here that give an overall description of what your
-## functions do
-
-##Q pair of functions use for caching the inverse of a matrix
+## functions are applied to set matrix and calculate inverse of matrix an cache the inverse
 
 ## Write a short comment describing this function
 
-## makeVector creates a special "matrix", which is really a list containing a function to
-
+## makeCacheMatrix creates a special "matrix", which is really a list containing a function to
 ## set the value of the matrix
 ## get the value of the matrix
 ## set the value of the inverse
